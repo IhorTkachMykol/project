@@ -1,0 +1,7 @@
+cifar*
+temp*
+docker*
+*.toml
+*.lock
+__*
+pyTorch*
